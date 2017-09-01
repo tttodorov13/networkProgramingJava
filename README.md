@@ -7,4 +7,3 @@
 
 <h2>Prerequisites:</h2>
 <p>Java 8 SE</p>
-<p>Git</p>
